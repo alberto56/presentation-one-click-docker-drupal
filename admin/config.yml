@@ -3,7 +3,7 @@ backend:
   repo: alberto56/presentation-one-click-docker-drupal
   branch: master
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6946e3ef7c6e2b059bec66a7
+  auth_endpoint: /auth/github/repo/694f515218f56cc358266525
 media_folder: static/uploads
 public_folder: /uploads
 collections:
