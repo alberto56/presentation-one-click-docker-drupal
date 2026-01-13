@@ -2,8 +2,8 @@ backend:
   name: github
   repo: alberto56/presentation-one-click-docker-drupal
   branch: master
-  base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/694f515218f56cc358266525
+  base_url: https://app.staticauth.com
+  auth_endpoint: /auth/github/repo/696663db8a3239f204717624
 media_folder: static/uploads
 public_folder: /uploads
 collections:
